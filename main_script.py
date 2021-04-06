@@ -21,4 +21,4 @@ elif user_start == "n":
     print("Exiting program...")
 
 else:
-    print("Invalid input; exiting program...")
+    print("Invalid input, exiting program...")
